@@ -1,6 +1,28 @@
 # wxscan2.0
 wxscan结合众多优秀的开源工具，实现快速的打点
 
+# 使用帮助
+1、扫描端口
+
+![image](https://user-images.githubusercontent.com/46781023/171074389-9db89182-7974-43c0-abcb-33442b60caa1.png)
+
+2、处理IP
+
+![image](https://user-images.githubusercontent.com/46781023/171074494-9e32725a-7724-40bf-bd2e-44fc9f94bfc5.png)
+
+3、指纹识别
+
+![image](https://user-images.githubusercontent.com/46781023/171074588-ccc1ca93-33c7-4ce9-a5eb-4eefe9108a70.png)
+
+4、扫描漏洞
+
+![image](https://user-images.githubusercontent.com/46781023/171074651-2c0d095b-96a1-4b35-85bf-3b266aca309b.png)
+
+5、hydra自动化爆破
+
+![image](https://user-images.githubusercontent.com/46781023/171074711-924e06a1-2c6d-44bc-9d18-a32d3fd5d729.png)
+
+
 # Licenses
 本工具仅面向合法授权的企业安全建设行为，在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。
 
