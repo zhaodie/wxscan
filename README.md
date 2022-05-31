@@ -2,6 +2,9 @@
 wxscan结合众多优秀的开源工具，实现快速的打点
 
 # 使用帮助
+
+wxscan2.0支持mac/linux/windows，请到Releases中下载
+
 1、扫描端口
 
 ![image](https://user-images.githubusercontent.com/46781023/171074389-9db89182-7974-43c0-abcb-33442b60caa1.png)
